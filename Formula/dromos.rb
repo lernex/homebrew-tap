@@ -8,7 +8,7 @@ class Dromos < Formula
   homepage "https://github.com/lernex/dromos"
   url "https://github.com/lernex/dromos/releases/download/v0.1.0/dromos-darwin-arm64.tar.gz"
   version "0.1.0"
-  sha256 "cdd136284cdea38b7a8773ef5a5dbfa7f6064e0744829ad7fc081ff7138b7662"
+  sha256 "c10cc6a45b4b7674ea4a37b007daf02db124884f04987ca5d37648e5b33dbea2"
   license "Apache-2.0"
 
   depends_on arch: :arm64
